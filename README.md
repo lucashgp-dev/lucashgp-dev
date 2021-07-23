@@ -1,5 +1,5 @@
 <div>
- <h1>Olá! 👋 Eu sou o Lucas Henrique</h1>
+ <h1>Olá!  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Eu sou o Lucas Henrique</h1>
  </div>
 
  <div>
